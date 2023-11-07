@@ -266,6 +266,7 @@
   height: 2632px;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
   align-items: flex-start;
   border-color: rgba(255, 255, 255, 0);
   flex-direction: column;
@@ -497,7 +498,7 @@
   font-size: 44px;
   padding-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.projects-text14 {
+.projects-text17 {
   color: rgb(39, 39, 45);
   cursor: pointer;
   font-size: 18px;
@@ -520,7 +521,7 @@
   font-size: 44px;
   padding-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.projects-text15 {
+.projects-text18 {
   color: rgb(39, 39, 45);
   cursor: pointer;
   font-size: 18px;
@@ -543,7 +544,7 @@
   font-size: 44px;
   padding-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.projects-text16 {
+.projects-text19 {
   color: rgb(39, 39, 45);
   cursor: pointer;
   font-size: 18px;
@@ -638,13 +639,13 @@
   font-size: 30px;
   text-decoration: none;
 }
-.projects-text17 {
+.projects-text20 {
   color: rgb(255, 255, 255);
   font-size: 18px;
   max-width: 1000px;
   line-height: 27px;
 }
-.projects-text18 {
+.projects-text21 {
   max-width: 1000px;
 }
 .projects-links-row {
@@ -930,6 +931,10 @@
     padding-bottom: var(--dl-space-space-halfunit);
   }
   .projects-text14 {
+    font-size: 32px;
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .projects-text17 {
     font-size: 16px;
   }
   .projects-item2 {
@@ -939,7 +944,7 @@
     font-size: 32px;
     padding-bottom: var(--dl-space-space-halfunit);
   }
-  .projects-text15 {
+  .projects-text18 {
     font-size: 16px;
   }
   .projects-item3 {
@@ -949,7 +954,7 @@
     font-size: 32px;
     padding-bottom: var(--dl-space-space-halfunit);
   }
-  .projects-text16 {
+  .projects-text19 {
     font-size: 16px;
   }
   .projects-purpose {
@@ -988,11 +993,11 @@
   .projects-email {
     font-size: 24px;
   }
-  .projects-text17 {
+  .projects-text20 {
     font-size: 16px;
     line-height: 24px;
   }
-  .projects-text18 {
+  .projects-text21 {
     font-size: 16px;
     line-height: 24px;
   }
@@ -1151,10 +1156,10 @@
   .projects-branding2 {
     font-size: 24px;
   }
-  .projects-text17 {
+  .projects-text20 {
     color: var(--dl-color-gray-900);
   }
-  .projects-text18 {
+  .projects-text21 {
     font-size: 16px;
     line-height: 24px;
   }
