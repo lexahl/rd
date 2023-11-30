@@ -1580,10 +1580,11 @@
     height: 100%;
   }
   .home-who {
-    height: 611px;
+    height: 664px;
   }
   .home-header1 {
     height: 100%;
+    margin-bottom: 0px;
   }
   .home-text06 {
     color: var(--dl-color-gray-900);
@@ -1599,6 +1600,7 @@
   }
   .home-case-studies {
     height: 602px;
+    border-color: rgba(255, 255, 255, 0);
     padding-bottom: var(--dl-space-space-halfunit);
   }
   .home-text20 {
@@ -1676,7 +1678,7 @@
     line-height: 20px;
   }
   .home-recruit {
-    height: 644px;
+    height: 739px;
   }
   .home-text41 {
     color: rgb(255, 255, 255);
